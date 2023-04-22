@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h4> I'm a Sr. Quality Assurance Engineer, Sprint QA Alum, & 👨🏾‍🎓ASU Graduate in Information Technology</h4>
+  <h4> I'm a Sr. Quality Assurance Engineer and 👨🏾‍🎓ASU Graduate in Information Technology</h4>
 </div>
 
 <div>
@@ -20,6 +20,8 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;">
 </div>
+
+
 <!--
 **amenamabrouk/amenamabrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
