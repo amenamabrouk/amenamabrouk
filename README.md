@@ -12,9 +12,9 @@
 <div>
   <h5>Languages and Tools:</h5>
 </div>
-<p dir="auto">⦿ Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ HTML/CSS </p>
-<p dir="auto">⦿ iOS Automation  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ Selenium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ MySQL  </p>
-<p dir="auto">⦿ Appium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ Android Automation</p>
+<p dir="auto">⦿ Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ HTML/CSS </p>
+<p dir="auto">⦿ iOS Automation  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ Selenium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ MySQL </p>
+<p dir="auto">⦿ Appium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦿ Android Automation</p>
 
 <div>
 
