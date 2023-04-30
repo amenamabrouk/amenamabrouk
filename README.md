@@ -7,7 +7,7 @@
   <p>ASU Graduate in Information Technology</p>
   <p> </p>
 </div>
-<p>------------------------------------------</p>
+<p>~~~~</p>
 <div>
   <h4>Languages and Tools:</h4>
 </div>
@@ -15,7 +15,7 @@
 <p dir="auto">⦿ iOS Automation  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ Selenium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⦿ MySQL </p>
 <p dir="auto">⦿ Appium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦿ Android Automation</p>
 </div>
-<p>------------------------------------------</p>
+<p>~~~~</p>
   <div>
   <h4>Experience:</h4>
 </div>
